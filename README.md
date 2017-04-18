@@ -1,4 +1,4 @@
-#Homerwork of online-course "Web Advenced". Group of Yuriy Kuchma starterd 10 april 2017. Author Ivan Protsko
+# Homerwork of online-course "Web Advenced". Group of Yuriy Kuchma starterd 10 april 2017. Author Ivan Protsko
 
 Stack:
  - Gulp 4.0
@@ -12,5 +12,5 @@ Getting started:
 6. run "gulp" command to start
 
 ### Note
-- Added module builder "browserify"
+- added module builder "browserify"
 - added transpiler "babel"
