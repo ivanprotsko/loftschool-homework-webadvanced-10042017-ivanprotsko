@@ -20,7 +20,7 @@ import {square, MyClass} from './module';
 
 console.log(square(5));
 var cred = {
-  name: 'Юрий Кучма',
+  name: 'Иван Процко',
   enrollmentNo: 11115078
 };
 var x = new
